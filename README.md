@@ -4,15 +4,6 @@ Hand Dodge, Python ile gelistirilmis kamera kontrollu kucuk bir dodge oyunudur.
 Oyuncu, kamerada elini saga ve sola hareket ettirerek ekrandaki karakteri
 kontrol eder ve yukaridan dusen engellerden kacmaya calisir.
 
-## Portfoy Ozeti
-
-Hand Dodge, bilgisayar gormesi ile oyun mekaniklerini birlestiren interaktif
-bir Python projesidir. Pygame oyun dongusunu ve arayuzu yonetirken, OpenCV
-kamera goruntusunu isler ve MediaPipe tek el takibiyle oyuncu kontrolunu
-saglar. Proje; gercek zamanli kamera kullanimi, temiz sinif yapisi, kaynak
-yonetimi, FPS'den bagimsiz hareket ve kullanici odakli kalibrasyon akisi gibi
-portfoyde one cikarilabilecek teknik detaylar icerir.
-
 ## Proje Aciklamasi
 
 Bu proje; Python, Pygame, OpenCV ve MediaPipe kullanarak temel bilgisayar
@@ -155,18 +146,6 @@ Kisa bir demo videosu icin su akis yeterlidir:
 ## GitHub Aciklamasi
 
 Camera-controlled Python dodge game built with Pygame, OpenCV and MediaPipe.
-
-## CV / LinkedIn Aciklamasi
-
-Hand Dodge, Python, Pygame, OpenCV ve MediaPipe kullanarak gelistirdigim kamera
-kontrollu bir oyun prototipidir. Projede el takibi verisini oyun kontrolune
-donusturdum; skor, can, zorluk artisi, kalibrasyon ve Game Over akisini temiz
-bir Python kod yapisiyla uyguladim.
-
-Kamera goruntusunu OpenCV ile alip MediaPipe uzerinden tek el landmark takibi
-yaptim; elde edilen normalize X konumunu Pygame tarafinda akici oyuncu
-hareketine cevirdim. Proje, gercek zamanli input isleme ve oyun dongusu
-tasarimini gosteren paylasilabilir bir portfoy calismasidir.
 
 ## Onerilen GitHub Etiketleri
 
